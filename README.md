@@ -7,7 +7,7 @@ Data has been sourced from a number of places, but I've found FBref (https://fbr
 
 Notebooks listed below:
 
-## WSL 2023-24 Season Data Analysis.ipynb 
+#WSL 2023-24 Season Data Analysis.ipynb 
 Initial data analysis conducted on a snapshot of WSL data from the 2023/24 season (as at March 2024). Contains calculations (e.g. penalty conversion rate, WSL players by age group) and a range of visualisations, including pie chart, bar chart and box plots.
 
 ## WSL Web Scraping Example.ipynb
