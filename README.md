@@ -1,7 +1,7 @@
 # Womens Football
 
 I have a passion for football and data analytics, so why not combine the two!
-This repository is where I will share data, analysis, code and my general learning of Python with a focus on Women's Football.
+This repository is where I will share data, analysis and code as I continue my journey learning Python with a focus on Women's Football.
 
 Data has been sourced from a number of places, but I've found FBref (https://fbref.com/en/) a really good starting point.
 
