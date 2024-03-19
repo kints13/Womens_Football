@@ -3,7 +3,9 @@
 I have a passion for football and data analytics, so why not combine the two!
 This repository is where I will share data, analysis and code as I continue my journey learning Python with a focus on Women's Football.
 
-Data has been sourced from a number of places, but I've found FBref (https://fbref.com/en/) a really good starting point.
+Data has been sourced from a number of places... 
+- FBref (https://fbref.com/en/) - loads of really interesting data
+- statsbomb (https://statsbomb.com/) - some of the 360 stuff is fantastic
 
 Notebooks can be found here Notebooks:
 
