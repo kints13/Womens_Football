@@ -16,3 +16,7 @@ List of Notebooks:
 **WSL Teams xG 2023-24.ipynb** - Using an xG data to create a scatterplot of xG For and xG Against for each of the 12 WSL teams
 
 **WSL Stacked Bar Plot Matplotlib WSL Top 4.ipynb** - Creating a stacked bar chart to show the WSL Top 4 (Chelsea, Manchester City, Arsenal, Manchester United) results in terms of wins, draws and losses
+
+Coming soon...
+
+**England Women - Keira Walsh passes Women's Euro 2021 Final** 
